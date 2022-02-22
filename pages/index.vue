@@ -42,7 +42,7 @@ export default {
         { text: 'Passengers', value: 'passengers' },
         { text: 'Length', value: 'length' },
       ],
-      starWarsVehicle: {},
+      starWarsVehicle: [],
       starWarsLoadingData: true,
     }
   },

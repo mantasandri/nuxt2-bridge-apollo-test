@@ -19,11 +19,16 @@
   "devDependencies": {
     "@apollo/client": "^3.5.9",
     "@nuxt/bridge": "npm:@nuxt/bridge-edge@^3.0.0-27415326.3c563fa",
+    "@nuxt/devalue": "^2.0.0",
     "@nuxtjs/vuetify": "^1.12.1",
     "@vue/apollo-composable": "^4.0.0-alpha.16",
     "@vue/test-utils": "^1.2.1",
     "babel-core": "7.0.0-bridge.0",
     "babel-jest": "^27.0.5",
+    "defu": "^5.0.1",
+    "graphql": "^15.8.0",
+    "graphql-tag": "^2.12.6",
+    "isomorphic-fetch": "^3.0.0",
     "jest": "^27.0.5",
     "std-env": "^3.0.1",
     "vue-jest": "^3.0.4"
